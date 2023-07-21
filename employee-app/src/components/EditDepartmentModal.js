@@ -69,8 +69,7 @@ export class EditDepartmentModal extends Component{
 
             <Modal
                 {...this.props}
-                size="lg"
-                aria-labeledby="contained-modal-title-vcenter" centered>
+               >
 
                 
                     <Modal.Title id="contained-modal-title-vcenter">
